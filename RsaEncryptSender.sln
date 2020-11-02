@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RsaEncryptSender", "RsaEncryptSender.csproj", "{3CED1A34-6E91-48BD-8A1A-EB4BE39BFD1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionH4Lib", "..\EncryptionH4Lib\EncryptionH4Lib.csproj", "{CF2B0C29-F9A1-440D-B6A9-B634354F152F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CED1A34-6E91-48BD-8A1A-EB4BE39BFD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CED1A34-6E91-48BD-8A1A-EB4BE39BFD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CED1A34-6E91-48BD-8A1A-EB4BE39BFD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CED1A34-6E91-48BD-8A1A-EB4BE39BFD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2B0C29-F9A1-440D-B6A9-B634354F152F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2B0C29-F9A1-440D-B6A9-B634354F152F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2B0C29-F9A1-440D-B6A9-B634354F152F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2B0C29-F9A1-440D-B6A9-B634354F152F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00A3E99A-3ADB-4CA9-922B-1C246F0C7962}
+	EndGlobalSection
+EndGlobal
